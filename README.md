@@ -63,5 +63,9 @@
 - [Django 3.2](https://www.djangoproject.com/)
 - [MySQL](https://dev.mysql.com/doc/)
 
+## Доработка
+- Необходим рефакторинг кода
+- Настройка CI/CD
+
 ### Автор
 - Ангелина Артемьева, github: [LinaArtmv](https://github.com/LinaArtmv)
